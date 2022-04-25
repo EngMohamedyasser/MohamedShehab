@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehab</h1>
 <h3 align="center">A passionate Embedded software engineer from United states and live in Edwardsville,IL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamedyasser&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamedyasser" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engmohamedyasser" alt="engmohamedyasser" /></a> </p>
-
-- 🔭 I’m currently working on **ID scanner**
+- 🔭 I’m currently working in **Roots solutions for automation services **
 
 - 🌱 I’m currently learning **Embedded C , Autosar , RTOS , Other Embedded systems Techniques**
 

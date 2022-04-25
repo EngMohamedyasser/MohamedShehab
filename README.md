@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehab</h1>
-<h3 align="center">A passionate Embedded software engineer from Egypt and live in Edwardsville</h3>
+<h3 align="center">A passionate Embedded software engineer from United states and live in Edwardsville,IL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamedyasser&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamedyasser" /> </p>
 

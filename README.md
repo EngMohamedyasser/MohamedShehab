@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/mohamed-shehab1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-shehab1996" height="30" width="40" /></a>
 <a href="https://fb.com/notengbob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="notengbob" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamedshehab96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedshehab96" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/engmohamed_sheh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mshehab1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/engmohamed_sheh1" target="blank"><img align="center" src="https://www.google.com/search?q=hackerrank+logo+svg&sxsrf=APq-WBuY7cWW26CVGRv_AM6RWZC8arzmXA:1650899457970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiB_YHev6_3AhXE_7sIHalhCgIQ_AUoAXoECAEQAw&biw=1536&bih=696&dpr=1.25#imgrc=mKzl0rxRUtqS9M" alt="mshehab1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
